@@ -1,0 +1,6 @@
+C:\Users\asdf\source\repos\TempClassLibrary\TempClassLibrary\bin\Debug\TempClassLibrary.dll
+C:\Users\asdf\source\repos\TempClassLibrary\TempClassLibrary\bin\Debug\TempClassLibrary.pdb
+C:\Users\asdf\source\repos\TempClassLibrary\TempClassLibrary\obj\Debug\TempClassLibrary.csprojAssemblyReference.cache
+C:\Users\asdf\source\repos\TempClassLibrary\TempClassLibrary\obj\Debug\TempClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asdf\source\repos\TempClassLibrary\TempClassLibrary\obj\Debug\TempClassLibrary.dll
+C:\Users\asdf\source\repos\TempClassLibrary\TempClassLibrary\obj\Debug\TempClassLibrary.pdb
